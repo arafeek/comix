@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "https://github.com/arafeek/comix",
+  "repository": "https://github.com/arafeek/xcomic",
   "author": "Adam Rafeek",
   "license": "MIT",
   "preferGlobal": true,
