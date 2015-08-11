@@ -1,10 +1,11 @@
 {
-  "name": "comix",
-  "version": "0.1.1",
+  "name": "xcomic",
+  "version": "0.2.1",
   "description": "Get a list of items on sale at Comixology right on your command line.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": "https://github.com/arafeek/comix",
   "author": "Adam Rafeek",
   "license": "MIT",
   "preferGlobal": true,
@@ -14,6 +15,6 @@
     "request": "^2.60.0"
   },
   "bin": {
-    "comix": "index.js"
+    "xcomic": "index.js"
   }
 }

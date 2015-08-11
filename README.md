@@ -1,4 +1,4 @@
-# COMIX
+# XCOMIC
 
 ### The hell?
   Comix is a light-hearted command line tool for quickly viewing sale items on 
@@ -7,10 +7,10 @@
 
 ### Usage 
  - Step 1:     
-` > npm install -g comix `
+` > npm install -g xcomic `
 
  - Step 2:     
-` > comix  `
+` > xcomic  `
 
  - Step 3:     
 Save money :)
